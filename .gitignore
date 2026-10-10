@@ -1,0 +1,18 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local environment and secrets
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.publishsettings
+azureProfile.json
+
+# Local test output
+*.log
+*.tmp
